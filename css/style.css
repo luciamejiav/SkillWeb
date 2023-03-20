@@ -1,3 +1,18 @@
 .bg-verde {
     background-color: #e5fae9;
 }
+
+.bg-quienessomos {
+    background-color: #f5f9fc;
+}
+
+.botonquienessomos {
+    color: rgb(34, 168, 252);
+}
+.btn-green{
+    background-color: #27a844;
+    border-color: #27a844;
+}
+.catalogo{
+    text-align: center;
+}
