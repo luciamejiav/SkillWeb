@@ -2,13 +2,16 @@
     background-color: #e5fae9;
 }
 
-.bg-quienessomos {
+.bg-todo {
     background-color: #f5f9fc;
 }
 
 .botonquienessomos {
-    color: rgb(34, 168, 252);
+    color: #5b91ef;
+    background-color: #f7f7f7;
+    font-weight: bold;
 }
+
 .btn-green{
     background-color: #27a844;
     border-color: #27a844;
